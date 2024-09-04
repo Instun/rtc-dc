@@ -1,0 +1,16 @@
+{
+  "name": "@instun/rtc-dc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/Instun/rtc-dc",
+  "keywords": "",
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  }
+}
